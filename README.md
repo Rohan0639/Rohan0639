@@ -6,13 +6,13 @@ Computer Science (Data Science) student building end-to-end systems across backe
 </p>
 
 <ul>
-<li>Built a concurrent system design simulator with real-time WebSocket streaming</li>
-<li>Developed a constraint-based IPL playoff prediction engine using optimized search techniques</li>
-<li>Created an AQI forecasting system with XGBoost and live data pipelines</li>
+<li>Engineered a system design simulator that models distributed systems, simulates traffic under varying loads, and detects bottlenecks and system failures</li>
+<li>Developed a constraint-based IPL playoff prediction engine to evaluate multiple match scenarios efficiently</li>
+<li>Built an AQI forecasting system that predicts next-day air quality using historical data and live data ingestion pipelines</li>
 </ul>
 
 <p style="margin-top:6px;">
-Interested in solving problems involving data flow, performance, and scalable architectures.
+My work focuses on building full-stack systems, designing APIs, developing data pipelines, and deploying end-to-end applications from development to production.
 </p>
 <h2 style="font-weight:600;">🌐 Socials</h2>
 
