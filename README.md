@@ -1,15 +1,54 @@
-# Rohan-Chinthoju
-## 💻 Tech Stack:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+
+
+## 🚀 Tech Stack
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python" width="55"/><br>Python
+</td>
+  <td align="center">
+<img src="https://skillicons.dev/icons?i=javascript" width="55"/><br>JavaScript
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=typescript" width="55"/><br>TypeScript
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=java" width="55"/><br>Java
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=c" width="55"/><br>C
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=fastapi" width="55"/><br>FastAPI
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react" width="55"/><br>React
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=tailwind" width="55"/><br>Tailwind
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql" width="55"/><br>MySQL
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mongodb" width="55"/><br>MongoDB
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=redis" width="55"/><br>Redis
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=docker" width="55"/><br>Docker
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" width="55"/><br>Git
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github" width="55"/><br>GitHub
+</td>
+
+</tr>
+</table>
