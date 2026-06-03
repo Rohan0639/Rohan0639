@@ -19,13 +19,13 @@ Interested in solving problems involving data flow, performance, and scalable ar
 <table>
 <tr>
 <td align="center">
-<a href="YOUR_LINKEDIN_LINK">
+<a href="https://www.linkedin.com/in/rohanchinthoju/">
 <img src="https://skillicons.dev/icons?i=linkedin" width="55"/><br>LinkedIn
 </a>
 </td>
 
 <td align="center">
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:chinthojurohan7@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" width="55"/><br>Email
 </a>
 </td>
@@ -94,13 +94,11 @@ Interested in solving problems involving data flow, performance, and scalable ar
 </table>
 
 
-<h2 style="font-weight:600;">📊 GitHub Stats</h2>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rohan0639&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="160"/>
+<h2 style="font-weight:600; letter-spacing:0.5px;">📊 GitHub Stats</h2>
 
-<br><br>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rohan0639&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000" height="160"/><p><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rohan0639&layout=compact&theme=github_dark&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=000000" height="160"/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rohan0639&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 
 
 
