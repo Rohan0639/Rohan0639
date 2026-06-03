@@ -4,15 +4,12 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square)
-
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css)
-
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square)
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square)
