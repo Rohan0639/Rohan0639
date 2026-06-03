@@ -1,7 +1,27 @@
 
 
+<h2 style="font-weight:600;">🌐 Socials</h2>
 
-## 🚀 Tech Stack
+<table>
+<tr>
+<td align="center">
+<a href="YOUR_LINKEDIN_LINK">
+<img src="https://skillicons.dev/icons?i=linkedin" width="55"/><br>LinkedIn
+</a>
+</td>
+
+<td align="center">
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail" width="55"/><br>Email
+</a>
+</td>
+</tr>
+</table>
+
+
+<h2 style="font-weight:600;">🚀 Tech Stack</h2>
+
+
 <table>
 <tr>
 <td align="center">
