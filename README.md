@@ -1,5 +1,19 @@
 
+<h2 style="font-weight:600; letter-spacing:0.5px;">🧠 About Me</h2>
 
+<p style="margin-bottom:6px;">
+Computer Science (Data Science) student building end-to-end systems across backend, data, and AI.
+</p>
+
+<ul>
+<li>Built a concurrent system design simulator with real-time WebSocket streaming</li>
+<li>Developed a constraint-based IPL playoff prediction engine using optimized search techniques</li>
+<li>Created an AQI forecasting system with XGBoost and live data pipelines</li>
+</ul>
+
+<p style="margin-top:6px;">
+Interested in solving problems involving data flow, performance, and scalable architectures.
+</p>
 <h2 style="font-weight:600;">🌐 Socials</h2>
 
 <table>
@@ -32,6 +46,9 @@
 </td>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=typescript" width="55"/><br>TypeScript
+</td>
+  <td align="center">
+<img src="https://skillicons.dev/icons?i=go" width="55"/><br>Go
 </td>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=java" width="55"/><br>Java
@@ -68,6 +85,9 @@
 </td>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=github" width="55"/><br>GitHub
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=githubactions" width="55"/><br>GitHub Actions
 </td>
 
 </tr>
