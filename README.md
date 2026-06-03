@@ -1,10 +1,18 @@
 # Rohan-Chinthoju
 ## 💻 Tech Stack:
-![Python](https://skillicons.dev/icons?i=python)  ![TypeScript](https://skillicons.dev/icons?i=typescript)  ![Java](https://skillicons.dev/icons?i=java)  ![C](https://skillicons.dev/icons?i=c)  ![FastAPI](https://skillicons.dev/icons?i=fastapi)   ![React](https://skillicons.dev/icons?i=react)  ![Tailwind](https://skillicons.dev/icons?i=tailwind)  ![MySQL](https://skillicons.dev/icons?i=mysql)  ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![Redis](https://skillicons.dev/icons?i=redis)  ![Docker](https://skillicons.dev/icons?i=docker)  
-![Git](https://skillicons.dev/icons?i=git)   ![GitHub](https://skillicons.dev/icons?i=github)   
-## 🚀 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square)
 
-![My Skills](https://skillicons.dev/icons?i=python,typescript,java,c,fastapi,react,tailwind,mysql,mongodb,redis,docker,git,github)
-📊 NumPy • Pandas • Scikit-learn • Feature Engineering  
-⚙️ REST APIs • WebSockets  
-☁️ Vercel • Render  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square)
