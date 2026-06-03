@@ -92,3 +92,24 @@ Interested in solving problems involving data flow, performance, and scalable ar
 
 </tr>
 </table>
+
+
+<h2 style="font-weight:600;">📊 GitHub Stats</h2>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rohan0639&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="160"/>
+
+<br><br>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rohan0639&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+
+
+
+
+
+
+
+
+
+</td>
+</tr>
+</table>
