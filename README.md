@@ -75,6 +75,9 @@ My work focuses on building full-stack systems, designing APIs, developing data 
 <img src="https://skillicons.dev/icons?i=mongodb" width="55"/><br>MongoDB
 </td>
 <td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="55"/><br>WebSockets
+</td>
+<td align="center">
 <img src="https://skillicons.dev/icons?i=redis" width="55"/><br>Redis
 </td>
 <td align="center">
