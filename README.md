@@ -6,8 +6,8 @@ Computer Science (Data Science) student building end-to-end systems across backe
 </p>
 
 <ul>
-<li>Engineered a system design simulator that models distributed systems, simulates traffic under varying loads, and detects bottlenecks and system failures</li>
 <li>Built FoodLog, a web app that lets users log meals in plain English and  converts them into structured format to track the users calories and macros data.</li>
+<li>Engineered a system design simulator that models distributed systems, simulates traffic under varying loads, and detects bottlenecks and system failures</li>
 <li>Built an AQI forecasting system that predicts next-day air quality using historical data and live data ingestion pipelines</li>
 </ul>
 
