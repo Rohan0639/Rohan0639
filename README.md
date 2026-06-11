@@ -71,6 +71,10 @@ My work focuses on building full-stack systems, designing APIs, developing data 
 <td align="center">
 <img src="https://skillicons.dev/icons?i=mysql" width="55"/><br>MySQL
 </td>
+  <td align="center">
+  <img src="https://skillicons.dev/icons?i=supabase" width="55"/><br>
+  Supabase
+</td>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=mongodb" width="55"/><br>MongoDB
 </td>
