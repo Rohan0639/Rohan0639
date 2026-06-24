@@ -1,4 +1,4 @@
-
+----
 <h2 style="font-weight:600; letter-spacing:0.5px;">🧠 About Me</h2>
 
 <p style="margin-bottom:6px;">
